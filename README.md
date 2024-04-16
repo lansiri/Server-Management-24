@@ -1,2 +1,7 @@
 # Server-Management-24
-HaagaHelia Server Management course assignments
+Haaga-Helia Server Management course assignments
+
+h0.md
+h1.md
+h2.md
+h3.md
